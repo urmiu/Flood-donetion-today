@@ -1,0 +1,199 @@
+/* part-1 */
+.top-banner{
+     background-image: url(images/donation13.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     padding: 20%;
+ }
+ 
+ .heder-section{
+     color: white;
+     text-align: center;
+     
+ }
+ .heder-section h2{
+     font-size: 60px;
+     
+ }
+ .heder-section p{
+     width: 70%;
+     margin: auto;
+     font-size: 40px;
+ }
+ .dont-button{
+     color: rgb(0, 0, 255);
+     background: lightseagreen;
+     padding: 15px 60px;
+     text-align: center;
+     margin-top: 50px;
+     border-radius: 20px;
+     border: none;
+     font-size: 30px;}
+ 
+ 
+ /* part-2 */
+ 
+ .texts h1{
+     font-size: 30px;
+     text-align: center;
+ }
+ .texts{
+     font-size: 26px;
+     width: 50%;
+     margin: auto;
+     text-align: center;
+ }
+ .main-amount{
+     display: flex;
+     width: 30%;
+     margin: auto;
+     text-align: center;
+ }
+ .amount{
+     color: lightslategray;
+     background-color: rgba(128, 128, 128, 0.265);
+     padding: 20px 30px;
+     margin-left: 20px;
+ }
+ 
+ .amounts{
+     color: lightslategray;
+     background-color: rgba(255, 99, 71, 0.266);
+     padding: 20px 30px;
+     margin-left: 20px;
+     border: 1px solid rgb(255, 0, 0);
+ }
+ .paragraphs-amount{
+     text-align: center;
+     font-size: 27px;
+     color: rgba(100, 148, 237, 0.404);
+     margin: 30px;
+ }
+ hr{
+     width: 60%;
+     color: rgba(0, 0, 0, 0.387);
+ }
+ .dont{
+     text-align: center;
+ }
+ /*third part*/
+
+ .donate h1{
+    font-size: 40px;
+    text-align: center;
+    }
+    .donate p{
+         font-size: 25px;
+         text-align: center;
+         width: 60%;
+         margin: auto;
+    }
+    .main1{
+         width: 80%;
+         display:flex;
+         margin: auto;
+         text-align: center;
+         margin-top: 100px;
+         padding: 0 50px;
+    }
+    .food{
+         width: 30%;
+         border: 1px solid #dba967a2 ;
+         border:none;
+         background-color: rgba(128, 128, 128, 0.452);
+         margin-left: 20px;
+         padding: 50px 0;
+         text-align: center;
+         border-radius: 10px;
+    }
+    .food h1{
+         font-size: 40px;
+    }
+    .food p{
+         font-size: 25px;
+    }
+    #jod{
+         background-color: rgba(250, 235, 215, 0.781);
+    }
+    #foods{
+         background-color: rgb(255, 228, 196);
+    }
+    img{
+         max-width: 100%;
+    }
+    /*fourth*/
+    .alert-dismissable{
+        display: flex;
+        margin-top: 100px;
+        
+    }
+    .testxted-aria{
+       font-size: 25px;
+        width: 50%;
+        margin-top: 100px;
+        margin-left: 100px;
+    }
+    .area-img img{
+        width: 70%;
+        margin-left: 100px;
+    }
+    .updates{
+       text-align: center;
+       margin-top: 100px;
+    }
+    .updates h1{
+        font-size: 45px;
+        margin-top: 50px;
+    }
+    .updates p{
+        width: 50%;
+        margin: auto;
+        text-align: center;
+        font-size: 25px;
+    }
+    /* part six*/
+    .Email{
+        background-color: rgba(255, 166, 0, 0.233);
+        width: 40%;
+        margin: auto;
+        text-align: center;
+        padding: 5%;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+    .Email input{
+        padding: 15px 30px;
+        border: none;
+        color: aliceblue;
+        font-size: 20px;
+        background-color: rgba(0, 0, 0, 0.233);
+        border-radius: 3px;
+        
+    }
+    .Email button{
+      padding: 15px 40px;
+     margin-left: -4px;
+     border: none;
+     background-color: rgba(68, 0, 255, 0.534);
+     color: azure;
+     font-size: 20px;
+     border-radius: 3px;
+    }
+   /* class-seven*/
+
+   .footer-section{
+    text-align: center;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: -10px;
+    padding: 30px 50px;
+    background-color: black;
+    color:aliceblue;
+   }
+   .footer-section footer{
+    font-size: 10px;
+   }
+
+
+
+    
